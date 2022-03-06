@@ -1,0 +1,2 @@
+# Nosana
+Nosana Testnet
